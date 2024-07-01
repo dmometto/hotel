@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Playfair; /* Pode ser qualquer nome */
+  src: url(fontes/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+
+h1 {
+  font-family: Playfair;
+}
