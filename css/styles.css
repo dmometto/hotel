@@ -6,3 +6,13 @@
 h1 {
   font-family: Playfair;
 }
+
+.painel-titulo {
+  font-family: Playfair;
+  font-size: 70pt;
+}
+
+.painel-texto {
+  font-family: cursive;
+  font-size: 25pt;
+}
