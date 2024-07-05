@@ -47,3 +47,18 @@ section {
 h3 {
   font-family: Playfair;
 }
+
+h3.gastronomia {
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.reservas {
+  padding: 100px 200px;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.8);
+}
