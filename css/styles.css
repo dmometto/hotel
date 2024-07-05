@@ -56,9 +56,20 @@ h3.gastronomia {
   margin-bottom: 30px;
 }
 
-.reservas {
+.reservas,
+.sobre {
   padding: 100px 200px;
   text-align: center;
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
+}
+
+.maps {
+  font-family: cursive;
+}
+
+.mapa {
+  width: 100%;
+  height: 400px;
+  margin-top: 10%;
 }
